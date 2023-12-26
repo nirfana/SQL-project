@@ -1,4 +1,4 @@
-# R-project
+# SQL-project
 :v: Welcome to mySQL-project repository! <br> 
 Here, I will be storing my data analyst portfolio using the SQL.
 
