@@ -1,5 +1,5 @@
 # SQL-project
-:v: Welcome to mySQL-project repository! <br> 
+:v: Welcome to my SQL-project repository! <br> 
 Here, I will be storing my data analyst portfolio using the SQL.
 
 
