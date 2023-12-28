@@ -33,7 +33,7 @@ Recommendation to help the business maximise their inventory management based on
 
 3. **Restock Understocked Product** to meet demand.
 
-4. **Close Warehouse C / WEST & Redistribute The Inventory** to warehouse B / EAST since they are having similar product line category and if The 1985 Toyota Supra have been removed from warehouse B it could fit all the inventory from warehouse C. Another way is split the Inventory to Warehouse C and D since Warehouse D also having similar product line but larger (Trucks and Buses).
+4. **Close Warehouse c & Redistribute The Inventory** to warehouse b since they are having similar product line category and if The 1985 Toyota Supra have been removed from warehouse b it could fit all the inventory from warehouse c. Another way is split the Inventory to Warehouse b and d since Warehouse d also having similar product line but larger (Trucks and Buses).
 
 ## 🔗 Links
 
