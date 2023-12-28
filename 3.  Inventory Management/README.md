@@ -37,5 +37,5 @@ Recommendation to help the business maximise their inventory management based on
 
 ## 🔗 Links
 
-Read the artcile at [Medium](https://medium.com/@devinirfana/looking-through-the-apps-store-data-1612792b6266) |
+Read the artcile at [Medium](https://medium.com/@devinirfana/analyze-data-in-a-model-car-database-with-mysql-workbench-d4109346d987) |
 connect with me on [LinkedIn](https://www.linkedin.com/in/devinirfana/)
